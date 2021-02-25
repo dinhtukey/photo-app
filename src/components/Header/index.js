@@ -20,8 +20,8 @@ function index(props) {
                     </Col>
 
                     <Col xs="auto">
-                        <NavLink className="header__link" to="/photos" activeClassName="header__link--active">
-                            Redux project
+                        <NavLink className="header__link" to="/signin" activeClassName="header__link--active">
+                            Sign in
                         </NavLink>
                     </Col>
                 </Row>
